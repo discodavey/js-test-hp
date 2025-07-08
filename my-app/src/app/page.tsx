@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <h1>HP Test</h1>
-      <div className="summary">This was the first part of the test. I took a photo of the url but it is no longer on my photo. It's not even in my deleted section. This was the only part I can remember.</div>
+      <div className="summary">This was the first part of the test. I took a photo of the url but it is no longer on my phone. It's not even in my deleted section. This was the only part I can remember.</div>
       <p>I have done the first part of the test (the trip up as you called it).</p>
       <div className="sentence-forward">This is the sentence forward - {burger}</div>
       <div className="sentence-backwards">This is the sentence reversed = {sentenced}</div>
